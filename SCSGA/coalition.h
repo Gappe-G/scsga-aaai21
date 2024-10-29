@@ -6,6 +6,8 @@
 #include <unordered_set>
 #include <algorithm>
 #include <vector>
+#include <stdint.h>
+#include <limits>
 
 namespace coalition {
 
